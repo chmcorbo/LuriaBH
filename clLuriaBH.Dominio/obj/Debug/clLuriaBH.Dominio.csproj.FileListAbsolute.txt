@@ -1,0 +1,9 @@
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.Dominio\bin\Debug\clLuriaBH.Dominio.dll
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.Dominio\bin\Debug\clLuriaBH.Dominio.pdb
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.Dominio\bin\Debug\Finsen.Elementary.dll
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.Dominio\bin\Debug\MongoDB.Bson.dll
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.Dominio\bin\Debug\Finsen.Elementary.pdb
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.Dominio\bin\Debug\MongoDB.Bson.xml
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.Dominio\obj\Debug\clLuriaBH.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.Dominio\obj\Debug\clLuriaBH.Dominio.dll
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.Dominio\obj\Debug\clLuriaBH.Dominio.pdb

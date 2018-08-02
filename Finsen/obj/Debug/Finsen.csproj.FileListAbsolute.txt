@@ -1,0 +1,12 @@
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\Finsen\obj\Debug\Finsen.csprojResolveAssemblyReference.cache
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\Finsen\bin\Debug\Finsen.dll
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\Finsen\bin\Debug\Finsen.pdb
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\Finsen\bin\Debug\MongoDB.Bson.dll
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\Finsen\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\Finsen\bin\Debug\MongoDB.Driver.dll
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\Finsen\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\Finsen\bin\Debug\MongoDB.Bson.xml
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\Finsen\bin\Debug\MongoDB.Driver.xml
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\Finsen\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\Finsen\obj\Debug\Finsen.dll
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\Finsen\obj\Debug\Finsen.pdb

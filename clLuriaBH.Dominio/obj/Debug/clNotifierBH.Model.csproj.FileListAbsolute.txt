@@ -1,0 +1,5 @@
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\clNotifierBalanceHours\bin\Debug\clNotifierBalanceHours.Model.dll
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\clNotifierBalanceHours\bin\Debug\clNotifierBalanceHours.Model.pdb
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\clNotifierBalanceHours\obj\Debug\clNotifierBalanceHours.Model.dll
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\clNotifierBalanceHours\obj\Debug\clNotifierBalanceHours.Model.pdb
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\clNotifierBalanceHours\obj\Debug\clNotifierBH.Model.csprojResolveAssemblyReference.cache

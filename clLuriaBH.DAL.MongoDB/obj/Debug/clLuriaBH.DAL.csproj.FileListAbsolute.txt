@@ -1,0 +1,17 @@
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL\obj\Debug\clLuriaBH.DAL.csprojResolveAssemblyReference.cache
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL\bin\Debug\clNotifierBH.DAL.dll
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL\bin\Debug\clNotifierBH.DAL.pdb
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL\bin\Debug\clLuriaBH.Dominio.dll
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL\bin\Debug\Finsen.dll
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL\bin\Debug\Finsen.Elementary.dll
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL\bin\Debug\MongoDB.Bson.dll
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL\bin\Debug\MongoDB.Driver.dll
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL\bin\Debug\clLuriaBH.Dominio.pdb
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL\bin\Debug\Finsen.Elementary.pdb
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL\bin\Debug\Finsen.pdb
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL\bin\Debug\MongoDB.Bson.xml
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL\bin\Debug\MongoDB.Driver.xml
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL\obj\Debug\clNotifierBH.DAL.dll
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL\obj\Debug\clNotifierBH.DAL.pdb

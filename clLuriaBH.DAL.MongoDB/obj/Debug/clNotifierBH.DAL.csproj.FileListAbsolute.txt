@@ -1,0 +1,5 @@
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\clNotifierBalanceHours.DAL\bin\Debug\clNotifierBH.DAL.dll
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\clNotifierBalanceHours.DAL\bin\Debug\clNotifierBH.DAL.pdb
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\clNotifierBalanceHours.DAL\obj\Debug\clNotifierBH.DAL.csprojResolveAssemblyReference.cache
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\clNotifierBalanceHours.DAL\obj\Debug\clNotifierBH.DAL.dll
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\clNotifierBalanceHours.DAL\obj\Debug\clNotifierBH.DAL.pdb

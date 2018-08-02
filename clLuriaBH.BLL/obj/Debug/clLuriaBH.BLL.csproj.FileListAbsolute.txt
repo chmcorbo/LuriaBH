@@ -1,0 +1,3 @@
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.BLL\obj\Debug\clLuriaBH.BLL.csprojResolveAssemblyReference.cache
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.BLL\obj\Debug\ClNotifierBH.BLL.dll
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.BLL\obj\Debug\ClNotifierBH.BLL.pdb

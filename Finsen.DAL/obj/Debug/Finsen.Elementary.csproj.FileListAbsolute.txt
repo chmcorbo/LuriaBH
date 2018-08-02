@@ -1,0 +1,8 @@
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\Finsen.DAL\obj\Debug\Finsen.Elementary.csprojResolveAssemblyReference.cache
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\Finsen.DAL\bin\Debug\Finsen.Elementary.dll
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\Finsen.DAL\bin\Debug\Finsen.Elementary.pdb
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\Finsen.DAL\bin\Debug\MongoDB.Bson.dll
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\Finsen.DAL\bin\Debug\MongoDB.Bson.xml
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\Finsen.DAL\obj\Debug\Finsen.Elementary.dll
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\Finsen.DAL\obj\Debug\Finsen.Elementary.pdb
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\Finsen.DAL\obj\Debug\Finsen.Elementary.csprojResolveAssemblyReference.cache

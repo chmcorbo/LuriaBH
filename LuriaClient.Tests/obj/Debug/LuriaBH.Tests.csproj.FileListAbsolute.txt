@@ -1,0 +1,6 @@
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\LuriaClient.Tests\bin\Debug\NotifierBalanceHours.Tests.dll
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\LuriaClient.Tests\bin\Debug\NotifierBalanceHours.Tests.pdb
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\LuriaClient.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\LuriaClient.Tests\obj\Debug\LuriaBH.Tests.csprojResolveAssemblyReference.cache
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\LuriaClient.Tests\obj\Debug\NotifierBalanceHours.Tests.dll
+C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\LuriaClient.Tests\obj\Debug\NotifierBalanceHours.Tests.pdb

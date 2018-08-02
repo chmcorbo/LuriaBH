@@ -1,0 +1,6 @@
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\NotifierBalanceHours.Tests\bin\Debug\NotifierBalanceHours.Tests.dll
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\NotifierBalanceHours.Tests\bin\Debug\NotifierBalanceHours.Tests.pdb
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\NotifierBalanceHours.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\NotifierBalanceHours.Tests\obj\Debug\NotifierBalanceHours.Tests.csprojResolveAssemblyReference.cache
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\NotifierBalanceHours.Tests\obj\Debug\NotifierBalanceHours.Tests.dll
+C:\Users\chmei\documents\visual studio 2015\Projects\NotifierBalanceHours\NotifierBalanceHours.Tests\obj\Debug\NotifierBalanceHours.Tests.pdb
