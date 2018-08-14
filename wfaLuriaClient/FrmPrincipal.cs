@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace wfaNotifierBHClient
+namespace wfaLuriaBHClient
 {
     public partial class FrmPrincipal : Form
     {

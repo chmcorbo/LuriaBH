@@ -7,3 +7,12 @@ C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.Dominio\b
 C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.Dominio\obj\Debug\clLuriaBH.Dominio.csprojResolveAssemblyReference.cache
 C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.Dominio\obj\Debug\clLuriaBH.Dominio.dll
 C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.Dominio\obj\Debug\clLuriaBH.Dominio.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.Dominio\bin\Debug\clLuriaBH.Dominio.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.Dominio\bin\Debug\clLuriaBH.Dominio.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.Dominio\bin\Debug\Finsen.Elementary.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.Dominio\bin\Debug\MongoDB.Bson.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.Dominio\bin\Debug\Finsen.Elementary.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.Dominio\bin\Debug\MongoDB.Bson.xml
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.Dominio\obj\Debug\clLuriaBH.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.Dominio\obj\Debug\clLuriaBH.Dominio.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.Dominio\obj\Debug\clLuriaBH.Dominio.pdb

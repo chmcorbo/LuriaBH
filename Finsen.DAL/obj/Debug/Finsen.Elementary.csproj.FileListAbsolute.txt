@@ -6,3 +6,9 @@ C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\Finsen.DAL\bin\Debu
 C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\Finsen.DAL\obj\Debug\Finsen.Elementary.dll
 C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\Finsen.DAL\obj\Debug\Finsen.Elementary.pdb
 C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\Finsen.DAL\obj\Debug\Finsen.Elementary.csprojResolveAssemblyReference.cache
+C:\Users\hcorbo\Git\Projetos\LuriaBH\Finsen.DAL\bin\Debug\Finsen.Elementary.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\Finsen.DAL\bin\Debug\Finsen.Elementary.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\Finsen.DAL\bin\Debug\MongoDB.Bson.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\Finsen.DAL\bin\Debug\MongoDB.Bson.xml
+C:\Users\hcorbo\Git\Projetos\LuriaBH\Finsen.DAL\obj\Debug\Finsen.Elementary.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\Finsen.DAL\obj\Debug\Finsen.Elementary.pdb

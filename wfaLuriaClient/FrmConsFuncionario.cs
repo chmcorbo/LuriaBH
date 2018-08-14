@@ -7,10 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using clBasePOO.DAL;
-using clBasePOO.Model;
+using clLuriaBH.Dominio.Model;
+using clLuriaBH.DAL.MongoDB;
 
-namespace wfaNotifierBHClient
+namespace wfaLuriaBHClient
 {
     public partial class FrmConsFuncionario : Form
     {
@@ -65,14 +65,14 @@ namespace wfaNotifierBHClient
             }
             else if (dataGridView1.Rows[dataGridView1.CurrentCell.RowIndex].Cells[dataGridView1.CurrentCell.ColumnIndex].Value.ToString() == "Excluir")
             {
-                _funcionario = _dalFuncionario.FindByMatricula(_matricula);
+                _funcionario = _dalFuncionario.BuscarPorMatricula(_matricula);
                 if (_funcionario!=null)
                 { 
                     if (MessageBox.Show("Confirma a exclusão deste funcionário?","Confirmação", 
                         MessageBoxButtons.YesNo, MessageBoxIcon.Question)==DialogResult.Yes)
                     {
                         _funcionario.Delete(); 
-                        _dalFuncionario.PostObject(_funcionario);
+                        _dalFuncionario.Post(_funcionario);
                         btnBuscar_Click(sender, e);
                     }
                 }
@@ -83,7 +83,7 @@ namespace wfaNotifierBHClient
         {
             if (cbCampo.SelectedIndex==1)
             {
-                _lista = _dalFuncionario.FindByName(txtFindText.Text.ToUpper());
+                _lista = _dalFuncionario.BuscarPorNome(txtFindText.Text.ToUpper());
             }
             
             dataGridView1.DataSource = _lista;

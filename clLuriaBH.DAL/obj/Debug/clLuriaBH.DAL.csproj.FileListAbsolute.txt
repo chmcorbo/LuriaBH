@@ -9,3 +9,14 @@ C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL\bin\D
 C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL\obj\Debug\clLuriaBH.DAL.csprojResolveAssemblyReference.cache
 C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL\obj\Debug\clLuriaBH.DAL.dll
 C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL\obj\Debug\clLuriaBH.DAL.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL\bin\Debug\clLuriaBH.DAL.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL\bin\Debug\clLuriaBH.DAL.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL\bin\Debug\clLuriaBH.Dominio.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL\bin\Debug\Finsen.Elementary.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL\bin\Debug\MongoDB.Bson.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL\bin\Debug\clLuriaBH.Dominio.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL\bin\Debug\Finsen.Elementary.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL\bin\Debug\MongoDB.Bson.xml
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL\obj\Debug\clLuriaBH.DAL.csprojResolveAssemblyReference.cache
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL\obj\Debug\clLuriaBH.DAL.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL\obj\Debug\clLuriaBH.DAL.pdb

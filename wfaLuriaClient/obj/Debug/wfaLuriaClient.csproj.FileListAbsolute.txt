@@ -18,3 +18,32 @@ C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\wfaLuriaClient\bin\
 C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\wfaLuriaClient\bin\Debug\MongoDB.Driver.xml
 C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\wfaLuriaClient\obj\Debug\wfaLuriaBHClient.exe
 C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\wfaLuriaClient\obj\Debug\wfaLuriaBHClient.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\bin\Debug\wfaLuriaBHClient.exe.config
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\bin\Debug\wfaLuriaBHClient.exe
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\bin\Debug\wfaLuriaBHClient.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\bin\Debug\clLuriaBH.DAL.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\bin\Debug\clLuriaBH.DAL.MongoDB.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\bin\Debug\clLuriaBH.Dominio.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\bin\Debug\Finsen.Elementary.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\bin\Debug\MongoDB.Driver.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\bin\Debug\Finsen.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\bin\Debug\MongoDB.Bson.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\bin\Debug\clLuriaBH.DAL.MongoDB.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\bin\Debug\clLuriaBH.DAL.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\bin\Debug\clLuriaBH.Dominio.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\bin\Debug\Finsen.Elementary.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\bin\Debug\MongoDB.Driver.xml
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\bin\Debug\Finsen.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\bin\Debug\MongoDB.Bson.xml
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\obj\Debug\wfaLuriaClient.csprojResolveAssemblyReference.cache
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\obj\Debug\wfaLuriaBHClient.FrmCadBHMes.resources
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\obj\Debug\wfaLuriaBHClient.FrmCadFuncionario.resources
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\obj\Debug\wfaLuriaBHClient.FrmConsFuncionario.resources
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\obj\Debug\wfaLuriaBHClient.FrmPrincipal.resources
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\obj\Debug\wfaLuriaBHClient.Properties.Resources.resources
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\obj\Debug\wfaLuriaClient.csproj.GenerateResource.Cache
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\obj\Debug\wfaLuriaBHClient.exe
+C:\Users\hcorbo\Git\Projetos\LuriaBH\wfaLuriaClient\obj\Debug\wfaLuriaBHClient.pdb

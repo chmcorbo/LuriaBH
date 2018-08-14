@@ -8,7 +8,7 @@ using clLuriaBH.Dominio.Model;
 using Finsen.DB;
 using clLuriaBH.DAL.Interfaces;
 
-namespace clBasePOO.DAL
+namespace clLuriaBH.DAL.MongoDB
 {
     public class DALSaldoBH : IDALSaldo
     {
@@ -79,6 +79,12 @@ namespace clBasePOO.DAL
         }
 
         public List<SaldoBH> ListarTudo()
+        {
+            throw new NotImplementedException();
+        }
+
+
+        public void Post(SaldoBH pObj)
         {
             throw new NotImplementedException();
         }

@@ -1,4 +1,4 @@
-﻿namespace wfaNotifierBHClient
+﻿namespace wfaLuriaBHClient
 {
     partial class FrmPrincipal
     {

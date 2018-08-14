@@ -6,12 +6,12 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-using clBasePOO.DAL;
-using clBasePOO.Model;
-using wfaNotifierBHClient.Enums;
+using clLuriaBH.Dominio.Model;
+using clLuriaBH.DAL.MongoDB;
+using wfaLuriaBHClient.Enums;
 
 
-namespace wfaNotifierBHClient
+namespace wfaLuriaBHClient
 {
     public partial class FrmCadFuncionario : Form
     {
@@ -48,7 +48,7 @@ namespace wfaNotifierBHClient
             else
             {
                 _statusForm = StatusForm.stfEdit;
-                _funcionario = _dalFuncionario.FindByMatricula(_matricula);
+                _funcionario = _dalFuncionario.BuscarPorMatricula(_matricula);
             }
 
             btnExcluir.Enabled = (_statusForm != StatusForm.stfNew);
@@ -95,7 +95,7 @@ namespace wfaNotifierBHClient
             try
             {
                 UpdateObject();
-                _dalFuncionario.PostObject(_funcionario);
+                _dalFuncionario.Post(_funcionario);
                 MessageBox.Show("Registro gravado com sucesso.", "Informação", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             catch (Exception ex)

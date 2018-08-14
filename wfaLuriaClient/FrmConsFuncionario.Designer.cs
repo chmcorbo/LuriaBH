@@ -1,4 +1,4 @@
-﻿namespace wfaNotifierBHClient
+﻿namespace wfaLuriaBHClient
 {
     partial class FrmConsFuncionario
     {
@@ -72,7 +72,7 @@
             // 
             // funcionarioBindingSource
             // 
-            this.funcionarioBindingSource.DataSource = typeof(clBasePOO.Model.Funcionario);
+            this.funcionarioBindingSource.DataSource = typeof(clLuriaBH.Dominio.Model.Funcionario);
             // 
             // txtFindText
             // 

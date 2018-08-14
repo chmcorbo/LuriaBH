@@ -6,7 +6,7 @@ using clLuriaBH.Dominio.Model;
 using MongoDB.Driver;
 using Finsen.DB;
 
-namespace clBasePOO.DAL
+namespace clLuriaBH.DAL.MongoDB
 {
     public class DALFuncionario : IDALFuncionario
     {
@@ -73,6 +73,12 @@ namespace clBasePOO.DAL
                         select f; */ 
 
             return lista;
+        }
+
+
+        public void Post(Funcionario pObj)
+        {
+            throw new NotImplementedException();
         }
     }
 }

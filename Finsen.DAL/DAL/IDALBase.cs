@@ -15,6 +15,8 @@ namespace Finsen.Elementary.Interfaces
 
         void Excluir(Model pObj);
 
+        void Post(Model pObj);
+
         List<Model> ListarTudo();
     }
 }

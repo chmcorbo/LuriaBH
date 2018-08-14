@@ -7,8 +7,8 @@
     <ProjectGuid>{1B2AF3F5-6F54-4CAF-AD53-89F52AE39BBB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>clNotifierBH.DAL.MongoBD</RootNamespace>
-    <AssemblyName>clNotifierBH.DAL.MongoBD</AssemblyName>
+    <RootNamespace>clLuriaBH.DAL.MongoDB</RootNamespace>
+    <AssemblyName>clLuriaBH.DAL.MongoDB</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

@@ -22,3 +22,14 @@ C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\Finsen\bin\Debug\Mo
 C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\Finsen\obj\Debug\Finsen.MongoDB.csprojResolveAssemblyReference.cache
 C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\Finsen\obj\Debug\Finsen.dll
 C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\Finsen\obj\Debug\Finsen.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\Finsen\bin\Debug\Finsen.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\Finsen\bin\Debug\Finsen.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\Finsen\bin\Debug\MongoDB.Bson.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\Finsen\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\Finsen\bin\Debug\MongoDB.Driver.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\Finsen\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\Finsen\bin\Debug\MongoDB.Bson.xml
+C:\Users\hcorbo\Git\Projetos\LuriaBH\Finsen\bin\Debug\MongoDB.Driver.xml
+C:\Users\hcorbo\Git\Projetos\LuriaBH\Finsen\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\hcorbo\Git\Projetos\LuriaBH\Finsen\obj\Debug\Finsen.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\Finsen\obj\Debug\Finsen.pdb

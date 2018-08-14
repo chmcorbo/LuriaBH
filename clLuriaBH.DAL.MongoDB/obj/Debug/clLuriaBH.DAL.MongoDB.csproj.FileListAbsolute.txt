@@ -17,3 +17,22 @@ C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL.Mongo
 C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL.MongoDB\bin\Debug\MongoDB.Driver.Core.xml
 C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL.MongoDB\obj\Debug\clNotifierBH.DAL.MongoBD.dll
 C:\Users\chmei\Documents\Visual Studio 2015\Projects\LuriaBH\clLuriaBH.DAL.MongoDB\obj\Debug\clNotifierBH.DAL.MongoBD.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL.MongoDB\bin\Debug\clLuriaBH.DAL.MongoDB.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL.MongoDB\bin\Debug\clLuriaBH.DAL.MongoDB.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL.MongoDB\bin\Debug\clLuriaBH.DAL.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL.MongoDB\bin\Debug\clLuriaBH.Dominio.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL.MongoDB\bin\Debug\Finsen.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL.MongoDB\bin\Debug\Finsen.Elementary.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL.MongoDB\bin\Debug\MongoDB.Bson.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL.MongoDB\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL.MongoDB\bin\Debug\MongoDB.Driver.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL.MongoDB\bin\Debug\clLuriaBH.DAL.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL.MongoDB\bin\Debug\clLuriaBH.Dominio.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL.MongoDB\bin\Debug\Finsen.Elementary.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL.MongoDB\bin\Debug\Finsen.pdb
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL.MongoDB\bin\Debug\MongoDB.Bson.xml
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL.MongoDB\bin\Debug\MongoDB.Driver.xml
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL.MongoDB\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL.MongoDB\obj\Debug\clLuriaBH.DAL.MongoDB.csprojResolveAssemblyReference.cache
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL.MongoDB\obj\Debug\clLuriaBH.DAL.MongoDB.dll
+C:\Users\hcorbo\Git\Projetos\LuriaBH\clLuriaBH.DAL.MongoDB\obj\Debug\clLuriaBH.DAL.MongoDB.pdb

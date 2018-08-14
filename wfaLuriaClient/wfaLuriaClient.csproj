@@ -113,6 +113,24 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\clLuriaBH.DAL.MongoDB\clLuriaBH.DAL.MongoDB.csproj">
+      <Project>{1b2af3f5-6f54-4caf-ad53-89f52ae39bbb}</Project>
+      <Name>clLuriaBH.DAL.MongoDB</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\clLuriaBH.DAL\clLuriaBH.DAL.csproj">
+      <Project>{e3a09e68-2f71-4d91-8641-3cfe23f81eb1}</Project>
+      <Name>clLuriaBH.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\clLuriaBH.Dominio\clLuriaBH.Dominio.csproj">
+      <Project>{16b18be0-a770-470a-bf37-51dab95d8eb5}</Project>
+      <Name>clLuriaBH.Dominio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Finsen.DAL\Finsen.Elementary.csproj">
+      <Project>{c2d4fb67-75c7-44df-af57-ddd358bf891f}</Project>
+      <Name>Finsen.Elementary</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

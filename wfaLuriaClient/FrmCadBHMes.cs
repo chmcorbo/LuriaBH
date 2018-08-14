@@ -7,10 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using clBasePOO.BLL;
-using clBasePOO.Model;
 
-namespace wfaNotifierBHClient
+
+namespace wfaLuriaBHClient
 {
     public partial class FrmCadBHMes : Form
     {
